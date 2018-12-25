@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe84e5f5-b3f2-44af-93c4-6d41d6933794" name="Default Changelist" comment="" />
+    <list default="true" id="fe84e5f5-b3f2-44af-93c4-6d41d6933794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizza1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizzamaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/PlainPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Mozzarella.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Mozzarella.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PizzaMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PizzaMaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PlainPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PlainPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/TomatoSauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/TomatoSauce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/ToppingDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/ToppingDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/FactoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/FactoryDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/ShapeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Test.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,95 +40,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/ShapeFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/PlainPizza.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="975">
-                <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PlainPizza.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Decorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="165">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Cheese.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/FactoryDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/Singleton.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="38" />
+            <state relative-caret-position="308">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/ToppingDecorator.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizzamaker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PizzaMaker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -109,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Mozzarella.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="59" />
               <folding>
                 <element signature="e#123#124#0" expanded="true" />
                 <element signature="e#154#155#0" expanded="true" />
@@ -127,6 +145,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,22 +169,31 @@
         <option value="$PROJECT_DIR$/src/XML/xmlparsing.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/decorator/PizzaMaker.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/PlainPizza.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Decorator.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Cheese.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizzamaker.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="316" />
-    <option name="y" value="96" />
+    <option name="x" value="66" />
+    <option name="y" value="87" />
     <option name="width" value="1440" />
-    <option name="height" value="808" />
+    <option name="height" value="801" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,16 +230,54 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
+              <item name="singleton" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
+              <item name="singleton" type="1f31426a:PackageElementNode" />
+              <item name="SingletonNew" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
+              <item name="singleton" type="1f31426a:PackageElementNode" />
+              <item name="SingletonNew" type="1f31426a:PackageElementNode" />
+              <item name="SingletonSerialization.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544738509426" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545766805739" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/com/lakshmi/solidprinciples/srp" />
       <recent name="$PROJECT_DIR$/src/com/lakshmi/solidprinciples" />
@@ -227,13 +295,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="FactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.factory.FactoryDemo" />
+  <component name="RunManager" selected="Application.TestSingletonSerialization">
+    <configuration name="Pizzamaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.nullObject.Pizzamaker" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.factory.*" />
+          <option name="PATTERN" value="com.lakshmi.nullObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,22 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.Main" />
-      <module name="DesignPrinciplesAndPatterns" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PizzaMaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.decorator.PizzaMaker" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.Test" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.decorator.*" />
+          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +335,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="xmlparsing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="XML.xmlparsing" />
+    <configuration name="TestSingletonReflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.TestSingletonReflection" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="XML.*" />
+          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSingletonSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.TestSingletonSerialization" />
+      <module name="DesignPrinciplesAndPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,10 +363,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSingletonSerialization" />
+        <item itemvalue="Application.TestSingletonReflection" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Pizzamaker" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.PizzaMaker" />
-        <item itemvalue="Application.xmlparsing" />
-        <item itemvalue="Application.FactoryDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -312,18 +384,21 @@
       <workItem from="1543527846550" duration="880000" />
       <workItem from="1543767555100" duration="4853000" />
       <workItem from="1544071565679" duration="3591000" />
-      <workItem from="1544737326614" duration="702000" />
+      <workItem from="1544737326614" duration="2973000" />
+      <workItem from="1545026738023" duration="206000" />
+      <workItem from="1545156016963" duration="3000" />
+      <workItem from="1545616287347" duration="3435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10026000" />
+    <option name="totallyTimeSpent" value="15941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="316" y="96" width="1440" height="808" extended-state="0" />
+    <frame x="66" y="87" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -332,7 +407,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26536313" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28067702" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,27 +472,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/TomatoSauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="49" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="975">
+            <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="105">
           <caret line="7" column="1" selection-start-line="2" selection-start-column="23" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="e#108#109#0" expanded="true" />
@@ -433,53 +500,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="975">
-            <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PlainPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/ToppingDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PizzaMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="75">
           <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
           <folding>
             <element signature="e#105#106#0" expanded="true" />
@@ -488,14 +511,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Mozzarella.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/ShapeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -506,10 +525,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/TomatoSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="49" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/ToppingDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PlainPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PizzaMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" selection-start-line="8" selection-start-column="7" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizza1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/PlainPizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="38" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizzamaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Mozzarella.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="59" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
