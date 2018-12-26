@@ -2,20 +2,27 @@ package com.lakshmi.singleton.SingletonNew;
 
  class SingletonClone implements Cloneable {
 
-
-     public Object clone() throws CloneNotSupportedException
+   /*  @Override
+     protected Object clone() throws CloneNotSupportedException
      {
          return super.clone();
      }
+*/
+     @Override
+     protected Object clone() throws CloneNotSupportedException
+     {
+         throw new CloneNotSupportedException();
+     }
 
-
-    private static  SingletonClone soleInstance = new SingletonClone();
+     private static  SingletonClone soleInstance = new SingletonClone();
 
     private SingletonClone()
     {
+
     }
 
-    public static SingletonClone getInstance()
+
+     public static SingletonClone getInstance()
     {
 
         return soleInstance;

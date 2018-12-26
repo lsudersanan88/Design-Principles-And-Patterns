@@ -5,7 +5,7 @@ import java.util.concurrent.Executors;
 
 class SingletonMultiThreading {
 
-    private static  SingletonMultiThreading soleInstance = null;
+    private static volatile   SingletonMultiThreading soleInstance = null;
 
     private SingletonMultiThreading()
     {
