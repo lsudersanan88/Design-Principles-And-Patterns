@@ -13,6 +13,10 @@ public class SingletonSerialization implements Serializable{
         return soleInstance;
     }
 
+    private Object readResolve ()
+    {
+        return soleInstance;
+    }
 
 }
 
@@ -23,7 +27,7 @@ class TestSingletonSerialization {
         SingletonSerialization singleton2 = SingletonSerialization.getInstance();
         print("s1", singleton1);
         print("s2", singleton2);
-        
+
 
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(new FileOutputStream("/tmp/s2.ser"));
         objectOutputStream.writeObject(singleton2);

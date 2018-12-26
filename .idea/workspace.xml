@@ -2,33 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe84e5f5-b3f2-44af-93c4-6d41d6933794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizza1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizzamaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/PlainPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonMultiThreading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Mozzarella.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Mozzarella.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PizzaMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PizzaMaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PlainPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/PlainPizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/TomatoSauce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/TomatoSauce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/ToppingDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/decorator/ToppingDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/FactoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/FactoryDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/ShapeFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/factory/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/SingletonNew/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/SingletonNew/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPrinciplesAndPatterns/com/lakshmi/singleton/SingletonNew/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/EagerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,33 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/PlainPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Decorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Cheese.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,19 +40,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/EagerSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="31" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonMultiThreading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="273">
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +60,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/LazySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="131">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonClone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="32" column="73" lean-forward="true" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -175,15 +164,21 @@
         <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Cheese.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizzamaker.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/CloneEx.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonClone.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/EagerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/MultiThreadingSingleton.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonMultiThreading.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="87" />
+    <option name="x" value="343" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="801" />
   </component>
@@ -258,10 +253,7 @@
             <path>
               <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
               <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
-              <item name="singleton" type="1f31426a:PackageElementNode" />
-              <item name="SingletonNew" type="1f31426a:PackageElementNode" />
-              <item name="SingletonSerialization.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545766805739" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545782419655" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -295,13 +287,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSingletonSerialization">
-    <configuration name="Pizzamaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.nullObject.Pizzamaker" />
+  <component name="RunManager" selected="Application.SingletonMultiThreadingTest">
+    <configuration name="SingletonMultiThreadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.SingletonMultiThreadingTest" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.nullObject.*" />
+          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +314,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.Test" />
+    <configuration name="TestSingletonClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.TestSingletonClone" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.singleton.*" />
+          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,11 +355,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonMultiThreadingTest" />
         <item itemvalue="Application.TestSingletonSerialization" />
         <item itemvalue="Application.TestSingletonReflection" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Pizzamaker" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestSingletonClone" />
       </list>
     </recent_temporary>
   </component>
@@ -387,18 +379,18 @@
       <workItem from="1544737326614" duration="2973000" />
       <workItem from="1545026738023" duration="206000" />
       <workItem from="1545156016963" duration="3000" />
-      <workItem from="1545616287347" duration="3435000" />
+      <workItem from="1545616287347" duration="8176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15941000" />
+    <option name="totallyTimeSpent" value="20682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="87" width="1440" height="801" extended-state="0" />
+    <frame x="552" y="65" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.025751073" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -407,7 +399,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28067702" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2947814" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -630,17 +622,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Singleton.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/CloneEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonClone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="32" column="73" lean-forward="true" selection-start-line="32" selection-start-column="73" selection-end-line="32" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/EagerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        <state relative-caret-position="376">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -649,8 +662,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonSerialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        <state relative-caret-position="131">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonMultiThreading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
