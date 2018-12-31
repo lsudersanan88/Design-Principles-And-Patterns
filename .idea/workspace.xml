@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe84e5f5-b3f2-44af-93c4-6d41d6933794" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/adapter/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/adapterNew/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/adapterNew/ElectricSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/adapterNew/Itarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/adapterNew/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/adapterNew/Volt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/decoratornew/ChickenPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/decoratornew/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/decoratornew/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/decoratornew/PizzaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/decoratornew/PlainPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/decoratornew/VegPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/factoryNew/AnimalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +31,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/LazySingleton.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/AnimalFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="81" lean-forward="true" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,84 +52,94 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonEnum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapter/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/Itarget.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Application.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/Volt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/ShapeFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/MobilePhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/FactoryDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#108#109#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/HolderForMultiThreading.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/ElectricSocket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/Adapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,9 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/lakshmi/solidprinciples/README.md" />
-        <option value="$PROJECT_DIR$/src/com/lakshmi/solidprinciples/srp/README.md" />
-        <option value="$PROJECT_DIR$/src/README.md" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/factory/Shape.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/factory/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/factory/Square.java" />
@@ -169,11 +193,29 @@
         <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonEnum.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Application.java" />
         <option value="$PROJECT_DIR$/src/com/lakshmi/factory/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/adapter/Bird.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/decoratornew/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/decoratornew/PizaaDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/decoratornew/PizzaDecorator.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/decoratornew/VegPizza.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/decoratornew/ChickenPizza.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/decoratornew/PlainPizza.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/decoratornew/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Cat.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/factoryNew/AnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/factoryNew/Client.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/adapterNew/ITarget.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/adapterNew/ElectricSocket.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/adapterNew/Itarget.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/adapterNew/Volt.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/adapterNew/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/com/lakshmi/adapterNew/MobilePhone.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="111" />
     <option name="y" value="32" />
     <option name="width" value="1440" />
     <option name="height" value="801" />
@@ -185,6 +227,28 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
+              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
+              <item name="adapterNew" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,48 +285,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
-              <item name="factory" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
-              <item name="com.lakshmi" type="1f31426a:PackageElementNode" />
-              <item name="singleton" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="DesignPrinciplesAndPatterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DesignPrinciplesAndPatterns" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545793268666" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546228339719" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lakshmi.decoratornew" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew" />
       <recent name="$PROJECT_DIR$/src" />
@@ -282,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.MobilePhone">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.Application" />
       <module name="DesignPrinciplesAndPatterns" />
@@ -296,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HolderForMultiThreadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.HolderForMultiThreadingTest" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.factoryNew.Client" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
+          <option name="PATTERN" value="com.lakshmi.factoryNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMultiThreadingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.SingletonMultiThreadingTest" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.decoratornew.Client" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
+          <option name="PATTERN" value="com.lakshmi.decoratornew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +356,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSingletonClone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.TestSingletonClone" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.adapter.Main" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
+          <option name="PATTERN" value="com.lakshmi.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSingletonSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lakshmi.singleton.SingletonNew.TestSingletonSerialization" />
+    <configuration name="MobilePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lakshmi.adapterNew.MobilePhone" />
       <module name="DesignPrinciplesAndPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lakshmi.singleton.SingletonNew.*" />
+          <option name="PATTERN" value="com.lakshmi.adapterNew.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MobilePhone" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="Application.HolderForMultiThreadingTest" />
-        <item itemvalue="Application.TestSingletonClone" />
-        <item itemvalue="Application.SingletonMultiThreadingTest" />
-        <item itemvalue="Application.TestSingletonSerialization" />
       </list>
     </recent_temporary>
   </component>
@@ -374,18 +408,19 @@
       <workItem from="1544737326614" duration="2973000" />
       <workItem from="1545026738023" duration="206000" />
       <workItem from="1545156016963" duration="3000" />
-      <workItem from="1545616287347" duration="14014000" />
+      <workItem from="1545616287347" duration="16438000" />
+      <workItem from="1546193792094" duration="5515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26520000" />
+    <option name="totallyTimeSpent" value="34459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="111" y="32" width="1440" height="801" extended-state="0" />
+    <frame x="0" y="32" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29685265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30114448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,7 +429,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20733428" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2693935" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,40 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/ToppingDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PlainPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PizzaMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="61" selection-start-line="8" selection-start-column="7" selection-end-line="12" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Pizza1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -549,17 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Mozzarella.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="59" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/nullObject/Sauce.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -574,13 +564,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/CloneEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/CloneEx.java" />
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/EagerSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -627,9 +611,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/SingletonReflection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="75">
           <caret line="6" column="81" lean-forward="true" selection-start-line="6" selection-start-column="81" selection-end-line="6" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -644,17 +635,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/LazySingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/singleton/SingletonNew/Application.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PlainPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/ToppingDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decoratornew/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/PizzaMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decorator/Mozzarella.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decoratornew/VegPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decoratornew/PlainPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decoratornew/PizzaDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decoratornew/ChickenPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="48" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/decoratornew/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -662,17 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,17 +765,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/FactoryDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/ShapeFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/ShapeFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factory/FactoryDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/factoryNew/AnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapter/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/Volt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/Itarget.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/ElectricSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lakshmi/adapterNew/MobilePhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
